@@ -484,34 +484,34 @@ AI functioned as a productivity tool, similar to documentation or peer discussio
 ## 🖼️ Screenshots
 
 ### Login Page
-![Login Page](screenshots/loginpage.png)
+![Login Page](screenshots/login-page.png)
 
 ### User Registration
-![Register Page](screenshots/registerpage.png)
+![Register Page](screenshots/register-page.png)
 
 ### Home – Sweet Listings
 ![Home Page](screenshots/homepage.png)
 
 ### Sweet Grid Layout
-![Sweet Grid Layout](screenshots/adminsweetsgrid.png)
+![Sweet Grid Layout](screenshots/admin-sweets-grid.png)
 
 ### Search & Filter
-![Search and Filter](screenshots/searchfilter.png)
+![Search and Filter](screenshots/search-filter.png)
 
 ### Search & Filter Working
-![Search and Filter Working](screenshots/searchfilterworking.png)
+![Search and Filter Working](screenshots/search-filter-working.png)
 
 ### Purchase Flow
 ![Purchase Sweet](screenshots/purchase.png)
 
 ### Purchase Flow Successful
-![Purchase Sweet Successful](screenshots/purchasesuccessful.png)
+![Purchase Sweet Successful](screenshots/purchase-successful.png)
 
 ### Admin – Restock Inventory
-![Admin Restock Inventory](screenshots/adminrestock.png)
+![Admin Restock Inventory](screenshots/admin-restock.png)
 
 ### Admin – Restock Inventory Successful
-![Admin Restock Successful](screenshots/restocksuccessful.png)
+![Admin Restock Successful](screenshots/restock-successful.png)
 
 ### Invalid Purchase
-![Invalid Purchase](screenshots/invalidpurchase.png)
+![Invalid Purchase](screenshots/invalid-purchase.png)
